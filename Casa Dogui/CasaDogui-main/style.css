@@ -15,6 +15,12 @@ h1{
     text-align: center;
     color: #4b05bd;
 }
+h2{
+  text-align: center;
+}
+.parrafo{
+  text-align: center;
+}
 .col-4:hover{
     transform: scale(1,1);
     border: 1px solid #ffffff;
